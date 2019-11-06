@@ -1,0 +1,36 @@
+
+
+header
+    .header-top
+        .container
+            .logo.header-logo
+                +icon('logo')
+            .header-nav
+                ul.header-nav__list
+                    li.header-nav__item
+                        a(href="tel:88001234567").header-nav__link.header__phone +380635792739
+                    li.header-nav__item
+                        a(href).header-nav__link Обратный звонок
+                    li.header-nav__item
+                        a(href).header-nav__link Адрес Салонов
+                ul.header-nav__list
+                    each object in nav.headerNavInfo
+                        li.header-nav__item
+                            +icon(object['icon'])
+                            a(href= object['link']).header-nav__link= object['title']
+                ul.header-nav__list
+                    each object in nav.headerNavConnect
+                        li.header-nav__item
+                            +icon(object['icon'])
+                            a(href= object['link']).header-nav__link= object['title']
+                ul.header-nav__user
+                    each object in nav.headerNavUser
+                        li.header-nav__user-item
+                            .header-nav__user-icon
+                                +icon(object['icon'])
+                                span.header-nav__user-count= object['number']
+                                a(href= object['link']).header-nav__link.header-nav__link--user= object['title']
+    .header-bottom
+        .container
+            include menu
+

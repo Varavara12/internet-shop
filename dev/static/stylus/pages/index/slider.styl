@@ -1,2 +1,117 @@
 .index-slider__img
   width: 100%
+
+
+.index-slider
+  max-height: 800px
+  &>.container
+    absolute($top:0,$bottom:0,$left:50%)
+    z-index: 1
+    transform translateX(-50%)
+
+.slick-dots
+  absolute($bottom: 300px)
+
+  li
+    margin-bottom: 10px
+    cursor: pointer
+    &:last-child
+      margin-bottom: 0
+
+.index-slider__dots
+  display: block
+  size (16px)
+  border-radius: 50%
+  border: 2px solid #fff
+
+
+.slick-active
+  .index-slider__dots
+    background-color: #fff
+  
+
+.index-slider__controls
+  position: absolute
+  z-index: 1
+  size (46px)
+  background-color: #fff
+
+  .icon
+    absolute-center()
+    size(40px, 20px)
+    cursor: pointer
+
+
+.index-slider__controls--next
+  absolute($bottom:300px)
+
+.index-slider__controls--prev
+  absolute($bottom:350px)
+
+.index-slider__item
+  position: relative
+
+.index-slider__content
+  absolute($top:250px,$left:50%)
+  width: 100%
+  max-width: 900px
+  transform translateX(-50%)
+  z-index: 2
+  
+.index-slider__title
+  display: block
+  margin-bottom: 50px
+  font-weight: 600
+  color: #f83636
+  font-size: rem(72px)
+  line-height: 1.5
+
+.slider-product-info
+  display: flex
+  margin-bottom: 30px
+
+.slider-product-info__item
+  margin-right: 70px
+
+  &:last-child
+    margin-right: 0
+
+.slider-product-info__title
+  text-transform: uppercase
+  font-size: rem (15px)
+  color: orangeColor
+  display: block
+  margin-bottom: 10px
+
+.slider-product-info__line
+  color: #ef4113
+  margin-bottom: 5px
+  display: flex
+  align-items: center
+
+
+  &:lasr-child
+    margin-bottom: 0
+
+  .icon
+    fill #f83636
+    size(30px)
+    margin-right: 20px
+
+.product-color
+  size (30px)
+  border-radius 50%
+
+.slider-product-info__color
+  margin-right: 20px
+
+
+
+  
+
+
+
+
+
+
+  

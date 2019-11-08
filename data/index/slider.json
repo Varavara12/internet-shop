@@ -1,0 +1,116 @@
+{
+  "slide1": {
+    "title" : {
+      "line1": "Набор посуды",
+      "line2": "Staer"
+    },
+    "alt" : "Слайдер на главной странице",
+    "image" : "slider1.jpg",
+    "colorsTitle": "Цвета",
+    "colors" : {
+      "black": {
+        "name": "Черный",
+        "code": "#000000"
+      },
+      "cherry": {
+        "name": "Вишневый",
+        "code": "#d93639"
+      },
+      "grey": {
+        "name": "Серый",
+        "code": "#9a988c"
+      }
+    },
+    "parametersTitle": "Параметры",
+    "parameters" : {
+      "diameter": {
+        "value": "30 см",
+        "icon": "diameter"
+      },
+      "amount": {
+        "value": "8.35 л",
+        "icon": "amount"
+      }
+    },
+    "btn" : {
+      "href": "javascript:void(0)",
+      "title": "О наборе"
+    }
+  },
+  "slide2": {
+    "title" : {
+      "line1": "Набор ножей",
+      "line2": "Staer"
+    },
+    "alt" : "Слайдер на главной странице",
+    "image" : "slider2.jpg",
+    "colorsTitle": "Цвета",
+    "colors" : {
+      "black": {
+        "name": "Черный",
+        "code": "#000000"
+      },
+      "cherry": {
+        "name": "Вишневый",
+        "code": "#d93639"
+      },
+      "grey": {
+        "name": "Серый",
+        "code": "#9a988c"
+      }
+    },
+    "parametersTitle": "Параметры",
+    "parameters" : {
+      "diameter": {
+        "value": "30 см",
+        "icon": "diameter"
+      },
+      "amount": {
+        "value": "В наборе 5шт",
+        "icon": "amount"
+      }
+    },
+    "btn" : {
+      "href": "javascript:void(0)",
+      "title": "О наборе"
+    }
+  },
+  "slide3": {
+    "title" : {
+      "line1": "Набор посуды",
+      "line2": "Staer"
+    },
+    "alt" : "Слайдер на главной странице",
+    "image" : "slider3.jpg",
+    "colorsTitle": "Цвета",
+    "colors" : {
+      "black": {
+        "name": "Черный",
+        "code": "#000000"
+      },
+      "cherry": {
+        "name": "Вишневый",
+        "code": "#d93639"
+      },
+      "grey": {
+        "name": "Серый",
+        "code": "#9a988c"
+      }
+    },
+    "parametersTitle": "Параметры",
+    "parameters" : {
+      "diameter": {
+        "value": "30 см",
+        "icon": "diameter"
+      },
+      "amount": {
+        "value": "8.35 л",
+        "icon": "amount"
+      }
+    },
+    "btn" : {
+      "href": "javascript:void(0)",
+      "title": "О наборе"
+    }
+  }
+}

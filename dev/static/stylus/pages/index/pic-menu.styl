@@ -1,0 +1,64 @@
+.pic-menu__line
+  display: flex
+  justify-content space-between
+
+  width: 100%
+
+.pic-menu__50
+  width: 49.5%
+  display: flex
+  justify-content space-between
+  flex-wrap wrap
+.pic-menu__25
+  width: 49%
+
+.pic-menu__item
+  position: relative
+  size(100%,280px)
+  background-size: cover
+  background-position: center
+  margin-bottom: 10px
+
+  &.pic-menu__item-big
+    height: auto
+    width: 49.5%
+
+.pic-menu__item-big
+
+  &:before
+    content ""
+    width: 65%
+    absolute($top:-30px,$right:-30px,$bottom:0)
+    display: block
+    background: url("../img/content/pic-menu/man.png")
+    background-size: cover
+
+.pic-menu__nav
+  absolute($right:0,$left:0,$bottom:0)
+  height: 105px
+  padding: 15px 20px
+  background-color: rgba(#000, .9)
+
+  a
+    color: #fff
+    border-bottom 1px solid grey
+    font-size: rem(13)
+
+.pic-menu__title
+  display: inline-block
+  text-transform: uppercase
+  color: #fff
+  margin-bottom: 5px
+
+.pic-menu-list
+  display: flex
+  flex-wrap wrap
+
+.pic-menu__list-item
+  margin-right: 10px
+  margin-bottom: 8px
+  &:last-child
+    margin-bottom: 0
+    a
+      color: orangeColor
+      border-bottom-color orangeColor

@@ -6,7 +6,8 @@ module.exports = function() {
                     nav: JSON.parse($.fs.readFileSync('./data/navigation.json', 'utf8')),
                     content: JSON.parse($.fs.readFileSync('./data/content.json', 'utf8')),
                     indexSlider: JSON.parse($.fs.readFileSync('./data/index/slider.json', 'utf8')),
-                    productPrev: JSON.parse($.fs.readFileSync('./data/module/product.json', 'utf8'))
+                    popularBrands: JSON.parse($.fs.readFileSync('./data/index/popular.json', 'utf8')),
+                    productPrev: JSON.parse($.fs.readFileSync('./data/module/product-prev.json', 'utf8'))
                 },
                 pretty: true
             }))

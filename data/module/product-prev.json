@@ -1,0 +1,582 @@
+{
+  "recommended": {
+    "product1": {
+      "title": "Наборы бокалов для красного вина серия Frau, SCHOTT ZWIESEL",
+      "img": "product1/product1.jpg",
+      "price": "234 грн",
+      "availability": true,
+      "info": {
+        "material": {
+          "key": "Материал: ",
+          "val": "Хрустальное стекло"
+        },
+        "height": {
+          "key": "Высота: ",
+          "val": "22.9 см"
+        },
+        "diameter": {
+          "key": "Диаметр: ",
+          "val": "9.1 см"
+        },
+        "appointment": {
+          "key": "Назначение: ",
+          "val": "Для красного вина"
+        }
+      },
+      "actions": {
+        "favourite": {
+          "class": "favourite",
+          "icon": "favourite ",
+          "text": "В избранное"
+        },
+        "compare": {
+          "class": "compare",
+          "icon": "equal ",
+          "text": "Сравнить"
+        }
+      }
+    },
+    "product2": {
+      "title": "Набор чайный 'Ричало' CHINELLI",
+      "img": "product2/product2.jpg",
+      "price": "2568 грн",
+      "availability": false,
+      "info": {
+        "material": {
+          "key": "Материал: ",
+          "val": "Фарфор"
+        },
+        "coating": {
+          "key": "Покрытие: ",
+          "val": "Глазурь"
+        },
+        "country": {
+          "key": "Страна: ",
+          "val": "Италия"
+        },
+        "packaging": {
+          "key": "Вид упаковки: ",
+          "val": "Подарочная"
+        }
+      },
+      "actions": {
+        "favourite": {
+          "class": "favourite",
+          "icon": "favourite ",
+          "text": "В избранное"
+        },
+        "compare": {
+          "class": "compare",
+          "icon": "equal ",
+          "text": "Сравнить"
+        }
+      }
+    },
+    "product3": {
+      "title": "Набор чайный 'Ричало' CHINELLI",
+      "img": "product3/product3.jpg",
+      "price": "4568 грн",
+      "availability": true,
+      "info": {
+        "weight": {
+          "key": "Вес: ",
+          "val": "1.3 кг"
+        },
+        "count nozzle": {
+          "key": "Количество насадок: ",
+          "val": "9"
+        },
+        "sound": {
+          "key": "Звуковой сигнал: ",
+          "val": "нет"
+        },
+        "child": {
+          "key": "Защита от детей: ",
+          "val": "нет"
+        }
+      },
+      "actions": {
+        "favourite": {
+          "class": "favourite",
+          "icon": "favourite ",
+          "text": "В избранное"
+        },
+        "compare": {
+          "class": "compare",
+          "icon": "equal ",
+          "text": "Сравнить"
+        }
+      }
+    },
+    "product4": {
+      "title": "Блюдо 'Smiley', EVA SOLD",
+      "img": "product4/product4.jpg",
+      "price": "3256 грн",
+      "availability": false,
+      "info": {
+        "packaging": {
+          "key": "Вид упаковки: ",
+          "val": "Подарочная"
+        },
+        "material": {
+          "key": "Материал: ",
+          "val": "стекло"
+        },
+        "diameter": {
+          "key": "Диаметр: ",
+          "val": "21 см"
+        },
+        "country": {
+          "key": "Страна: ",
+          "val": "Дания"
+        }
+      },
+      "actions": {
+        "favourite": {
+          "class": "favourite",
+          "icon": "favourite ",
+          "text": "В избранное"
+        },
+        "compare": {
+          "class": "compare",
+          "icon": "equal ",
+          "text": "Сравнить"
+        }
+      }
+    },
+    "product5": {
+      "title": "Наборы бокалов для красного вина серия Frau, SCHOTT ZWIESEL",
+      "img": "product1/product1.jpg",
+      "price": "234 грн",
+      "availability": true,
+      "info": {
+        "material": {
+          "key": "Материал: ",
+          "val": "Хрустальное стекло"
+        },
+        "height": {
+          "key": "Высота: ",
+          "val": "22.9 см"
+        },
+        "diameter": {
+          "key": "Диаметр: ",
+          "val": "9.1 см"
+        },
+        "appointment": {
+          "key": "Назначение: ",
+          "val": "Для красного вина"
+        }
+      },
+      "actions": {
+        "favourite": {
+          "class": "favourite",
+          "icon": "favourite ",
+          "text": "В избранное"
+        },
+        "compare": {
+          "class": "compare",
+          "icon": "equal ",
+          "text": "Сравнить"
+        }
+      }
+    },
+    "product6": {
+      "title": "Набор чайный 'Ричало' CHINELLI",
+      "img": "product2/product2.jpg",
+      "price": "2568 грн",
+      "availability": false,
+      "info": {
+        "material": {
+          "key": "Материал: ",
+          "val": "Фарфор"
+        },
+        "coating": {
+          "key": "Покрытие: ",
+          "val": "Глазурь"
+        },
+        "country": {
+          "key": "Страна: ",
+          "val": "Италия"
+        },
+        "packaging": {
+          "key": "Вид упаковки: ",
+          "val": "Подарочная"
+        }
+      },
+      "actions": {
+        "favourite": {
+          "class": "favourite",
+          "icon": "favourite ",
+          "text": "В избранное"
+        },
+        "compare": {
+          "class": "compare",
+          "icon": "equal ",
+          "text": "Сравнить"
+        }
+      }
+    },
+    "product7": {
+      "title": "Набор чайный 'Ричало' CHINELLI",
+      "img": "product3/product3.jpg",
+      "price": "4568 грн",
+      "availability": true,
+      "info": {
+        "weight": {
+          "key": "Вес: ",
+          "val": "1.3 кг"
+        },
+        "count nozzle": {
+          "key": "Количество насадок: ",
+          "val": "9"
+        },
+        "sound": {
+          "key": "Звуковой сигнал: ",
+          "val": "нет"
+        },
+        "child": {
+          "key": "Защита от детей: ",
+          "val": "нет"
+        }
+      },
+      "actions": {
+        "favourite": {
+          "class": "favourite",
+          "icon": "favourite ",
+          "text": "В избранное"
+        },
+        "compare": {
+          "class": "compare",
+          "icon": "equal ",
+          "text": "Сравнить"
+        }
+      }
+    },
+    "product8": {
+      "title": "Блюдо 'Smiley', EVA SOLD",
+      "img": "product4/product4.jpg",
+      "price": "3256 грн",
+      "availability": false,
+      "info": {
+        "packaging": {
+          "key": "Вид упаковки: ",
+          "val": "Подарочная"
+        },
+        "material": {
+          "key": "Материал: ",
+          "val": "стекло"
+        },
+        "diameter": {
+          "key": "Диаметр: ",
+          "val": "21 см"
+        },
+        "country": {
+          "key": "Страна: ",
+          "val": "Дания"
+        }
+      },
+      "actions": {
+        "favourite": {
+          "class": "favourite",
+          "icon": "favourite ",
+          "text": "В избранное"
+        },
+        "compare": {
+          "class": "compare",
+          "icon": "equal ",
+          "text": "Сравнить"
+        }
+      }
+    }
+  },
+  "doNotMiss": {
+    "product1": {
+      "title": "Наборы бокалов для красного вина серия Frau, SCHOTT ZWIESEL",
+      "img": "product1/product1.jpg",
+      "price": "234 грн",
+      "availability": true,
+      "info": {
+        "material": {
+          "key": "Материал: ",
+          "val": "Хрустальное стекло"
+        },
+        "height": {
+          "key": "Высота: ",
+          "val": "22.9 см"
+        },
+        "diameter": {
+          "key": "Диаметр: ",
+          "val": "9.1 см"
+        },
+        "appointment": {
+          "key": "Назначение: ",
+          "val": "Для красного вина"
+        }
+      },
+      "actions": {
+        "favourite": {
+          "class": "favourite",
+          "icon": "favourite ",
+          "text": "В избранное"
+        },
+        "compare": {
+          "class": "compare",
+          "icon": "equal ",
+          "text": "Сравнить"
+        }
+      }
+    },
+    "product2": {
+      "title": "Набор чайный 'Ричало' CHINELLI",
+      "img": "product2/product2.jpg",
+      "price": "2568 грн",
+      "availability": false,
+      "info": {
+        "material": {
+          "key": "Материал: ",
+          "val": "Фарфор"
+        },
+        "coating": {
+          "key": "Покрытие: ",
+          "val": "Глазурь"
+        },
+        "country": {
+          "key": "Страна: ",
+          "val": "Италия"
+        },
+        "packaging": {
+          "key": "Вид упаковки: ",
+          "val": "Подарочная"
+        }
+      },
+      "actions": {
+        "favourite": {
+          "class": "favourite",
+          "icon": "favourite ",
+          "text": "В избранное"
+        },
+        "compare": {
+          "class": "compare",
+          "icon": "equal ",
+          "text": "Сравнить"
+        }
+      }
+    },
+    "product3": {
+      "title": "Набор чайный 'Ричало' CHINELLI",
+      "img": "product3/product3.jpg",
+      "price": "4568 грн",
+      "availability": true,
+      "info": {
+        "weight": {
+          "key": "Вес: ",
+          "val": "1.3 кг"
+        },
+        "count nozzle": {
+          "key": "Количество насадок: ",
+          "val": "9"
+        },
+        "sound": {
+          "key": "Звуковой сигнал: ",
+          "val": "нет"
+        },
+        "child": {
+          "key": "Защита от детей: ",
+          "val": "нет"
+        }
+      },
+      "actions": {
+        "favourite": {
+          "class": "favourite",
+          "icon": "favourite ",
+          "text": "В избранное"
+        },
+        "compare": {
+          "class": "compare",
+          "icon": "equal ",
+          "text": "Сравнить"
+        }
+      }
+    },
+    "product4": {
+      "title": "Блюдо 'Smiley', EVA SOLD",
+      "img": "product4/product4.jpg",
+      "price": "3256 грн",
+      "availability": false,
+      "info": {
+        "packaging": {
+          "key": "Вид упаковки: ",
+          "val": "Подарочная"
+        },
+        "material": {
+          "key": "Материал: ",
+          "val": "стекло"
+        },
+        "diameter": {
+          "key": "Диаметр: ",
+          "val": "21 см"
+        },
+        "country": {
+          "key": "Страна: ",
+          "val": "Дания"
+        }
+      },
+      "actions": {
+        "favourite": {
+          "class": "favourite",
+          "icon": "favourite ",
+          "text": "В избранное"
+        },
+        "compare": {
+          "class": "compare",
+          "icon": "equal ",
+          "text": "Сравнить"
+        }
+      }
+    },
+    "product5": {
+      "title": "Наборы бокалов для красного вина серия Frau, SCHOTT ZWIESEL",
+      "img": "product1/product1.jpg",
+      "price": "234 грн",
+      "availability": true,
+      "info": {
+        "material": {
+          "key": "Материал: ",
+          "val": "Хрустальное стекло"
+        },
+        "height": {
+          "key": "Высота: ",
+          "val": "22.9 см"
+        },
+        "diameter": {
+          "key": "Диаметр: ",
+          "val": "9.1 см"
+        },
+        "appointment": {
+          "key": "Назначение: ",
+          "val": "Для красного вина"
+        }
+      },
+      "actions": {
+        "favourite": {
+          "class": "favourite",
+          "icon": "favourite ",
+          "text": "В избранное"
+        },
+        "compare": {
+          "class": "compare",
+          "icon": "equal ",
+          "text": "Сравнить"
+        }
+      }
+    },
+    "product6": {
+      "title": "Набор чайный 'Ричало' CHINELLI",
+      "img": "product2/product2.jpg",
+      "price": "2568 грн",
+      "availability": false,
+      "info": {
+        "material": {
+          "key": "Материал: ",
+          "val": "Фарфор"
+        },
+        "coating": {
+          "key": "Покрытие: ",
+          "val": "Глазурь"
+        },
+        "country": {
+          "key": "Страна: ",
+          "val": "Италия"
+        },
+        "packaging": {
+          "key": "Вид упаковки: ",
+          "val": "Подарочная"
+        }
+      },
+      "actions": {
+        "favourite": {
+          "class": "favourite",
+          "icon": "favourite ",
+          "text": "В избранное"
+        },
+        "compare": {
+          "class": "compare",
+          "icon": "equal ",
+          "text": "Сравнить"
+        }
+      }
+    },
+    "product7": {
+      "title": "Набор чайный 'Ричало' CHINELLI",
+      "img": "product3/product3.jpg",
+      "price": "4568 грн",
+      "availability": true,
+      "info": {
+        "weight": {
+          "key": "Вес: ",
+          "val": "1.3 кг"
+        },
+        "count nozzle": {
+          "key": "Количество насадок: ",
+          "val": "9"
+        },
+        "sound": {
+          "key": "Звуковой сигнал: ",
+          "val": "нет"
+        },
+        "child": {
+          "key": "Защита от детей: ",
+          "val": "нет"
+        }
+      },
+      "actions": {
+        "favourite": {
+          "class": "favourite",
+          "icon": "favourite ",
+          "text": "В избранное"
+        },
+        "compare": {
+          "class": "compare",
+          "icon": "equal ",
+          "text": "Сравнить"
+        }
+      }
+    },
+    "product8": {
+      "title": "Блюдо 'Smiley', EVA SOLD",
+      "img": "product4/product4.jpg",
+      "price": "3256 грн",
+      "availability": false,
+      "info": {
+        "packaging": {
+          "key": "Вид упаковки: ",
+          "val": "Подарочная"
+        },
+        "material": {
+          "key": "Материал: ",
+          "val": "стекло"
+        },
+        "diameter": {
+          "key": "Диаметр: ",
+          "val": "21 см"
+        },
+        "country": {
+          "key": "Страна: ",
+          "val": "Дания"
+        }
+      },
+      "actions": {
+        "favourite": {
+          "class": "favourite",
+          "icon": "favourite ",
+          "text": "В избранное"
+        },
+        "compare": {
+          "class": "compare",
+          "icon": "equal ",
+          "text": "Сравнить"
+        }
+      }
+    }
+  }
+}

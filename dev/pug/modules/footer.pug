@@ -1,0 +1,48 @@
+footer
+    .container
+        include menu
+
+        .footer
+            .footer-copyright
+                span.copyright 2019 Kropotkin Vitalii
+                ul.social-list.footer__social-list
+                    +socialLink('javascript:void(0);', 'fb')
+                    +socialLink('javascript:void(0);', 'vk')
+                    +socialLink('javascript:void(0);', 'instagram')
+                    +socialLink('javascript:void(0);', 'tw')
+
+                a(href="javascript:void(0);").footer-rules__link Правила сайта
+
+            .payment-type.footer__payment-type
+                span.payment-type__title Мы принимаем
+                ul.payment-type__list
+                    +paymentType('yandex')
+                    +paymentType('webmoney')
+                    +paymentType('visa')
+                    +paymentType('mastercard')
+
+            .footer-nav
+                ul.footer-nav__list
+                    +footerNavLink('Как заказать')
+                    +footerNavLink('Оплата')
+                    +footerNavLink('Доставка')
+                    +footerNavLink('Статьи')
+                    +footerNavLink('Видеообзоры')
+
+                ul.footer-nav__list
+                    +footerNavLink('Бренды')
+                    +footerNavLink('Возрат товара')
+                    +footerNavLink('Новости магазина')
+                    +footerNavLink('О магазине')
+                    +footerNavLink('Контакты')
+            .footer-contacts
+                .footer-contacts__line
+                    a(href="tel:=380635792739").footer__phone +380635792739
+                    a(href="javascript:void(0);").footer__feedback Обратный звонок
+                form.footer-subcribe-form
+                    label(for="footer-subscribe-email").g-label Подпишитесь на новинки, акции и новости
+                    .footer-subscribe-form__line
+                        input(type="email" name="email").g-input.g-input-email#footer-subscribe-email
+                        input(type="submit" value="Подписаться").g-btn.g-btn--no-under
+
+
